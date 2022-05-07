@@ -223,8 +223,8 @@
 
 ## 联系专栏
 
-#### 每天晚上8点【免费技术直播】：分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容。<br>
+#### 关注微信公众号【Java后端编程】分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容。<br>
 
-#### 关注微信公众号【后台服务架构师】👉【联系我们】（备注github直播链接），获取直播链接！
+#### 关注微信公众号【Java后端编程】，回复关键词：Java，免费领取学习视频和资料 ！
 
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+<img width="65%" height="65%" src="https://cxyquan.oss-cn-shenzhen.aliyuncs.com/2020/06/71595753848.gif"/>
